@@ -20,9 +20,14 @@
             <artifactId>log</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.oneape</groupId>-->
+            <!--<artifactId>log4j</artifactId>-->
+            <!--<version>1.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>com.oneape</groupId>
-            <artifactId>log4j</artifactId>
+            <artifactId>logback</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
